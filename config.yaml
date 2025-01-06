@@ -1,6 +1,6 @@
-username: aakashm301@gmail.com
-password: Passme1090!@#
-phone_number: +44 7407045050
+username: yourusername
+password: yourpasword
+phone_number: yourphonenumebr
 
 profile_path: "" #can be empty, will default to 'C:\Users\<user>\AppData\Local\Google\Chrome\User Data\Default'
 
